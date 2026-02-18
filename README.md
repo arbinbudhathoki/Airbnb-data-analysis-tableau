@@ -14,23 +14,21 @@ This project analyzes Airbnb listing data to uncover pricing trends, revenue pot
 •	Certain locations generate higher revenue due to demand and review volume.
 •	Entire homes/apartments tend to have higher average pricing compared to private rooms.
 •	Seasonal and review trends impact booking frequency.
-🌐 Live Interactive Dashboard
-👉 View Dashboard on Tableau Public
-📸 Dashboard Preview
- 
- 
 🚀 Skills Demonstrated
 •	Data cleaning and transformation
 •	Exploratory data analysis (EDA)
 •	Interactive dashboard design
 •	Business insight extraction
 •	Data storytelling
- 
 📈 Business Value
 This dashboard helps stakeholders:
 •	Identify high-performing neighborhoods
 •	Optimize pricing strategies
 •	Understand property type performance
 •	Make data-driven hosting decisions
-
+📸 Dashboard Preview
 <img width="468" height="644" alt="image" src="https://github.com/user-attachments/assets/d1b7cfa0-91db-4246-bea6-d0a5de0f889f" />
+🌐 Live Interactive Dashboard
+👉 View Dashboard on Tableau Public
+
+ 
