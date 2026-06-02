@@ -1,6 +1,7 @@
 # Airbnb-data-analysis-tableau
 Airbnb Data Analysis &amp; Interactive Dashboard using Tableau
 
+This is the data collected and done from the Data Analyst Bootcamp
 
 🏠 Airbnb Data Analysis Dashboard (Tableau)
 📌 Project Overview
