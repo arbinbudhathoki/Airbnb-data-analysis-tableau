@@ -1,9 +1,9 @@
 # Airbnb-data-analysis-tableau
 Airbnb Data Analysis &amp; Interactive Dashboard using Tableau
 
-This is the data collected and done from the Data Analyst Bootcamp
+-> This is the data collected and done from the Data Analyst Bootcamp
 
-🏠 Airbnb Data Analysis Dashboard (Tableau)
+-> Airbnb Data Analysis Dashboard (Tableau)
 📌 Project Overview
 This project analyzes Airbnb listing data to uncover pricing trends, revenue potential, and geographic distribution patterns. The goal was to identify insights that could help hosts optimize pricing and understand market performance.
 
