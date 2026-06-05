@@ -6,7 +6,8 @@ This is the data collected and done from the Data Analyst Bootcamp
 🏠 Airbnb Data Analysis Dashboard (Tableau)
 📌 Project Overview
 This project analyzes Airbnb listing data to uncover pricing trends, revenue potential, and geographic distribution patterns. The goal was to identify insights that could help hosts optimize pricing and understand market performance.
-🛠 Tools Used
+
+-> Tools Used
 •	SQL (Data Cleaning & Transformation)
 •	Tableau (Data Visualization & Dashboard)
 •	Excel (Initial Data Preparation)
@@ -15,13 +16,15 @@ This project analyzes Airbnb listing data to uncover pricing trends, revenue pot
 •	Certain locations generate higher revenue due to demand and review volume.
 •	Entire homes/apartments tend to have higher average pricing compared to private rooms.
 •	Seasonal and review trends impact booking frequency.
-🚀 Skills Demonstrated
+
+-> Skills Demonstrated
 •	Data cleaning and transformation
 •	Exploratory data analysis (EDA)
 •	Interactive dashboard design
 •	Business insight extraction
 •	Data storytelling
-📈 Business Value
+
+-> Business Value
 This dashboard helps stakeholders:
 •	Identify high-performing neighborhoods
 •	Optimize pricing strategies
