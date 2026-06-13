@@ -8,7 +8,7 @@ Airbnb Data Analysis &amp; Interactive Dashboard using Tableau
 This project analyzes Airbnb listing data to uncover pricing trends, revenue potential, and geographic distribution patterns. The goal was to identify insights that could help hosts optimize pricing and understand market performance.
 
 -> Tools Used
-•	SQL (Data Cleaning & Transformation)
+->	SQL (Data Cleaning & Transformation)
 •	Tableau (Data Visualization & Dashboard)
 •	Excel (Initial Data Preparation)
 📊 Key Insights
